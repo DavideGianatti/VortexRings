@@ -12,9 +12,7 @@ The main parameters of the simulation are defined at the beginning of the script
 - M: Number of discretization points per tube.
 - strength: Vorticity flux constant for each tube.
 - length: Length of each tube.
-- length_0: Initial length of each tube (fixed).
 - sigma: Width of each tube.
-- sigma_0: Initial width of each tube (fixed).
 - position: Positions of discretization points for each tube.
 - velocity: Velocities of discretization points.
 - df: DataFrame to store the simulation data.
